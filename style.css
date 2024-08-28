@@ -1,0 +1,268 @@
+
+div.container {
+    background-image: url(seriouswoman.jpg);
+    width: 100%;
+    height: 400px;
+
+}
+
+nav {
+    color: aliceblue;
+}
+h1{
+    color: bisque;
+    text-align: center;
+}
+
+
+h2{
+    color: rgb(11, 2, 2);
+    text-align: center;   
+}
+h3{
+    color: #000;
+    text-align: center;
+}
+h1{
+    color: #0082ba;
+    text-align: center;
+}
+
+h1.company {
+    background-color: #e3e7e9;
+    border-width: 2px;
+    border-radius: 3px;
+    width: fit-content;
+
+}
+
+div.ty {
+    display:block;
+}
+p{
+    font-family: Verdana;
+    font-size: 20px;
+    color: black;
+}
+form{
+    text-align: center;
+}
+header {
+color: #000;
+}
+form { font-family: Verdana, Geneva, Tahoma, sans-serif;}
+*{box-sizing: border-box;}
+
+/* #angela{
+    background: linear-gradient(to left, red, blue);
+} */
+button{
+    background-color: dodgerblue;
+    color: black;
+    border: 2px solid #0082ba;
+    transition-duration: 0.4s;
+}
+button:hover{
+    background-color: rgb(4, 103, 108);
+    color: white;
+}
+form {
+    row-gap: 2px;
+}
+.row{
+    float: left;
+}
+ul{
+    font-size: 22px;
+}
+
+ul.list {
+    display: list-item;
+    padding: 0;
+    margin: 0;
+}
+nav{
+    text-align: center;
+    
+}
+li{
+    list-style-type:none;
+    display:inline-block;
+    padding: 20px;   
+    
+}
+li a{
+    text-decoration: none;  
+    font-size:large;
+    color: aliceblue;
+}
+p {
+    text-decoration-color: white;
+}
+.responsive{
+    background-color: #5a8a9f;
+    padding: 18px;
+    margin: 18px;
+    border: #000;
+    display: flex;
+    gap: 10px;
+
+}
+#compiled{
+    width: 95%;
+    height: 600px;
+    padding: 18px;
+    margin: 18px;
+}
+#p{
+    color:#0082ba;
+}
+#para{
+    background-color: #0eabef;
+    height: 300px;
+    width: 400px;
+    padding: 30px;
+    margin: 50px;
+}
+ #soft{
+    background-color: #0eabef;height: 300px;
+    width: 400px;
+    padding: 30px;
+    margin: 50px;
+ } 
+ #hey{
+    background-color: #0eabef;
+    height: 300px;
+    width: 400px;
+    padding: 30px;
+    margin: 50px;
+ }
+ #put{
+    background-color: #0eabef;
+    height: 250px;
+    width: 400px;
+    padding: 30px;
+    margin: 50px;
+ }
+#right{
+    text-align: center;
+    color: aliceblue;  
+}
+div.button {
+    color: black; 
+
+  }
+  #hike{
+    text-align:left;
+    text-size-adjust: 8px;
+    margin-top: 200px;
+  }
+ 
+  body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+  * {box-sizing: border-box;}
+
+input[type=text], select, textarea _{
+    width: 300px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+    input[type=submit]:hover {
+        background-color: #45a049;
+      }
+      
+.hold{
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+        width: 500;
+        height: 300;
+      }  
+#Subject{
+    height: 30px;
+    width: 50px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column {
+    float: left;
+    width: 70%;
+    margin-top: 3px;
+    padding: 10px;
+  }
+.contact{
+    float: right;
+    
+}
+.hood {
+    display: block;
+    list-style-type:none;
+    list-style:square;
+}
+input {
+    display: inline;
+    border-radius: 2px;
+}
+
+textarea{
+    border-radius: 3px;
+    margin: auto;
+    padding: 5px;
+}
+#width{
+    width: 47%;
+    height: 20%;
+}
+.halt{
+    background-image: url(Perfectionism-1.webp);
+    width: 100%;
+    height: 400px;
+}
+#instagram{
+    color: #0082ba;
+    height: 100;
+    width: 50;
+}
+#facebook{
+    color: #0082ba;
+}
+#whatsapp{
+    color: #0082ba;
+}
+#twitter{
+    color: #0082ba;
+}
+#linkedin{
+    color: #0082ba;
+}
+#soft{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
